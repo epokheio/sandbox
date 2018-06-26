@@ -6,3 +6,6 @@ function printReverse(arr) {
 }
 
 printReverse([1, 2, 3, 4]);
+
+
+
